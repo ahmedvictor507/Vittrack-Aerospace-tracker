@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# CMake and C++ build files
+gui/CMakeCache.txt
+gui/CMakeFiles/
+gui/Makefile
+gui/cmake_install.cmake
+gui/DroneControlGUI
+gui/DroneControlGUI_autogen/
+
